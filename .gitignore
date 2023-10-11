@@ -1,0 +1,10 @@
+POTCAR
+*.pkl
+AECCAR*
+CHG
+CHGCAR
+DOSCAR
+WAVECAR
+.ipynb_checkpoints
+__pycache__/
+finetuna2.egg-info/
